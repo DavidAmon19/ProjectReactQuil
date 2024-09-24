@@ -11,20 +11,24 @@ TailwindCSS:
 🛠️ Instalação e Configuração
 Clone o repositório:
 
-bash
+```bash
 Copiar código
 git clone https://github.com/DavidAmon19/ProjectReactQuil.git
 cd reactquill-email-editor
 Instale as dependências:
+```
 
-bash
+```bash
 Copiar código
 npm install
 Execute o projeto:
+```
 
-bash
+
+```bash
 Copiar código
 npm run dev
+```
 
 
 📋 Respostas para as Perguntas
