@@ -1,4 +1,6 @@
-Projeto ReactQuill - Editor de Email
+## 2 - Projeto ReactQuill - Editor de Email
+
+
 Este projeto foi criado com o objetivo de testar as capacidades do ReactQuill na criação de templates de email elaborados. Abaixo, você encontrará as instruções para instalação, as tecnologias utilizadas, as respostas para as perguntas chave, e a conclusão do teste.
 
 🚀 Tecnologias Utilizadas
@@ -12,22 +14,28 @@ TailwindCSS:
 Clone o repositório:
 
 ```bash
-Copiar código
+
+1 - Clone o projeto
+
 git clone https://github.com/DavidAmon19/ProjectReactQuil.git
 cd reactquill-email-editor
-Instale as dependências:
+
+
 ```
 
 ```bash
-Copiar código
+2 - Instale as dependências:
+
 npm install
-Execute o projeto:
+
 ```
 
 
 ```bash
-Copiar código
+3 - Execute o projeto:
+
 npm run dev
+
 ```
 
 
