@@ -1,4 +1,4 @@
-## 2 - Projeto ReactQuill - Editor de Email
+## 1 - Projeto ReactQuill - Editor de Email
 
 
 Este projeto foi criado com o objetivo de testar as capacidades do ReactQuill na criação de templates de email elaborados. Abaixo, você encontrará as instruções para instalação, as tecnologias utilizadas, as respostas para as perguntas chave, e a conclusão do teste.
